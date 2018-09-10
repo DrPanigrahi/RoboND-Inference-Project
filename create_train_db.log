@@ -1,0 +1,28 @@
+Tensorflow support disabled.
+2018-09-05 18:10:48 [DEBUG] 4396 total lines in file
+2018-09-05 18:10:48 [INFO ] 4396 valid lines in file
+2018-09-05 18:10:48 [DEBUG] Category 0 has 822 images.
+2018-09-05 18:10:48 [DEBUG] Category 1 has 1485 images.
+2018-09-05 18:10:48 [DEBUG] Category 2 has 1485 images.
+2018-09-05 18:10:48 [DEBUG] Category 3 has 604 images.
+2018-09-05 18:10:50 [DEBUG] Processed 100/4396
+2018-09-05 18:10:52 [DEBUG] Processed 300/4396
+2018-09-05 18:10:54 [DEBUG] Processed 500/4396
+2018-09-05 18:10:56 [DEBUG] Processed 600/4396
+2018-09-05 18:10:58 [DEBUG] Processed 800/4396
+2018-09-05 18:11:00 [DEBUG] Processed 900/4396
+2018-09-05 18:11:02 [DEBUG] Processed 1100/4396
+2018-09-05 18:11:04 [DEBUG] Processed 1200/4396
+2018-09-05 18:11:06 [DEBUG] Processed 1400/4396
+2018-09-05 18:11:09 [DEBUG] Processed 1600/4396
+2018-09-05 18:11:11 [DEBUG] Processed 2000/4396
+2018-09-05 18:11:13 [DEBUG] Processed 2300/4396
+2018-09-05 18:11:15 [DEBUG] Processed 2700/4396
+2018-09-05 18:11:17 [DEBUG] Processed 3000/4396
+2018-09-05 18:11:19 [DEBUG] Processed 3300/4396
+2018-09-05 18:11:21 [DEBUG] Processed 3700/4396
+2018-09-05 18:11:23 [DEBUG] Processed 4000/4396
+2018-09-05 18:11:25 [DEBUG] 4396 images loaded
+2018-09-05 18:11:25 [INFO ] 4396 images written to database
+2018-09-05 18:11:25 [INFO ] Mean saved at "/opt/DIGITS/digits/jobs/20180905-181042-4e5d/mean.binaryproto"
+2018-09-05 18:11:25 [INFO ] Mean saved at "/opt/DIGITS/digits/jobs/20180905-181042-4e5d/mean.jpg"
